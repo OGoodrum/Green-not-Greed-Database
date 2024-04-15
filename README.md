@@ -1,4 +1,4 @@
-# Greed-not-Green-Database
+# Green-not-Greed-Database
 
 The gng-construct.sql file shows the commands that I used to create the tables and insert into the database.
 
