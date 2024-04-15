@@ -1,2 +1,7 @@
 # Greed-not-Green-Database
-A python program that accesses a SQL database that I created.
+
+The gng-construct.sql file shows the commands that I used to create the tables and insert into the database.
+
+The gng.md file shows the relations that I used for my database.
+
+The 
